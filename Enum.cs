@@ -8,6 +8,6 @@ namespace RiversideLegends
     public class Enum
     {
         public static string CurrentName = "Riverside Legends";
-        public static string Version = "Alpha 0.1";
+        public static string Version = "Dev 0.1";
     }
 }
